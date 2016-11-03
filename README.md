@@ -1,3 +1,4 @@
+大家好
 Join Us
 ====
 哔哩哔哩弹幕视频网 <http://www.bilibili.com> 需要更多的小伙伴~~
