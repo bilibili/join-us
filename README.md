@@ -5,8 +5,8 @@ Join Us
 
 下列职位工作地点均为: 上海·杨浦区·[政立路国正中心3号楼](http://j.map.baidu.com/X3r2N)
 
-详细个人介绍与**PDF简历**投递至 <wangyongrong@bilibili.com>
-邮件标题格式为**[github]-真名-应聘职位名称**
+详细个人介绍与 **PDF简历** 投递至 <wangyongrong@bilibili.com>
+邮件标题格式为 **[github]-真名-应聘职位名称**
 
 Android开发工程师
 ====
@@ -140,5 +140,5 @@ HTML5 播放器开发
 ====
 mail to <wangyongrong@bilibili.com>
 建议投递简历时附带作品介绍或链接
-邮件标题格式为**[Github]真名-应聘职位名称**
+邮件标题格式为 **[Github]真名-应聘职位名称**
 
