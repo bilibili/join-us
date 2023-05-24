@@ -10,7 +10,7 @@
 
 详细个人介绍与简历（建议使用 **PDF** 格式）投递至：
 
-[xihaoyang@bilibili.com](mailto:xihaoyang@bilibili.com)（移动端）
+[zhangxinzheng@bilibili.com](mailto:zhangxinzheng@bilibili.com)（移动端）
 
 [tanzhaoxin@bilibili.com](mailto:tanzhaoxin@bilibili.com) （web 端）
 
@@ -231,7 +231,7 @@
 
 # 联系方式
 
-[xihaoyang@bilibili.com](mailto:xihaoyang@bilibili.com)（移动端）
+[zhangxinzheng@bilibili.com](mailto:zhangxinzheng@bilibili.com)（移动端）
 
 [tanzhaoxin@bilibili.com](mailto:tanzhaoxin@bilibili.com) （web端）
 
